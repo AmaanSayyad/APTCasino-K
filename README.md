@@ -67,17 +67,17 @@ The traditional online gambling industry is plagued by several issues, including
 
 ### Deployed Contract Address:
 
-https://app.kiichain.io/kiichain/tx/0xf2a85099921e23622920353da81f94072eb43391998d6180ef41a90c149dd7e7
+- https://app.kiichain.io/kiichain/tx/0xf2a85099921e23622920353da81f94072eb43391998d6180ef41a90c149dd7e7
 
-https://app.kiichain.io/kiichain/tx/0x9b34aa93c1c57f8c6601cad1a49594c6928ca54ef5c4fd0afcee94d39ad9c762
+- https://app.kiichain.io/kiichain/tx/0x9b34aa93c1c57f8c6601cad1a49594c6928ca54ef5c4fd0afcee94d39ad9c762
 
-https://app.kiichain.io/kiichain/tx/0xf42cd0a9624cc2e77c0c5c1edd9eabff7daa662e1a61e78cdd25360369579d35
+- https://app.kiichain.io/kiichain/tx/0xf42cd0a9624cc2e77c0c5c1edd9eabff7daa662e1a61e78cdd25360369579d35
 
-0xaF60c1A5fb9f878F3CB09758b6449843c09DbE7C
+- 0xaF60c1A5fb9f878F3CB09758b6449843c09DbE7C
 
-0x76fF6A4599b69561B500FAa18981b540A50b692C
+- 0x76fF6A4599b69561B500FAa18981b540A50b692C
 
-0x93F80042Fb769009C6a6c8f20348C4807e8CbFf5
+- 0x93F80042Fb769009C6a6c8f20348C4807e8CbFf5
 
 ### What's next
 All though started as a idea but now we are thinking to carry forward as a business model and expand further.
