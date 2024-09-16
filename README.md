@@ -23,7 +23,7 @@ The traditional online gambling industry is plagued by several issues, including
  APT-Casino addresses these problems by offering:
 - **Provably Fair Gaming:** Utilizing the Kiichain to ensure all game outcomes are transparent and verifiably fair.
 
-
+![APT-Casino - Analog pptx (3)](https://github.com/user-attachments/assets/3549c792-a64e-47a1-b0f7-74d98332af39)
 
 - **Low Fees:** Leveraging the efficiency of Kiichain to minimize transaction costs.
 
@@ -54,7 +54,16 @@ The traditional online gambling industry is plagued by several issues, including
 
 **Diverse Game Selection:** A variety of fully on-chain games, including roulette, mines, wheel of luck, blackjack, plinko, and more. As a (POC) Proof of Concept we developed fully on-chain Roulette but similar model can be applied to introduce the new casino games to the platform.
 
+![APT-Casino - Analog pptx (2)](https://github.com/user-attachments/assets/2b7d30fb-635e-441a-95db-3b36c6127bdf)
 
+
+![APT-Casino - Analog pptx (4)](https://github.com/user-attachments/assets/d51e897d-3129-4998-b7ca-67b4cdd04704)
+
+
+![APT-Casino - Analog pptx (7)](https://github.com/user-attachments/assets/dff51e16-ceed-44da-b27d-2d925b4d62e0)
+
+
+![captures_chrome-capture-2024-5-16 (7)](https://github.com/user-attachments/assets/c0b31be6-cda8-45aa-bc82-86b6121c917f)
 
 ### What's next
 All though started as a idea but now we are thinking to carry forward as a business model and expand further.
