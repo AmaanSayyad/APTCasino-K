@@ -25,7 +25,7 @@ The traditional online gambling industry is plagued by several issues, including
 
 ![APT-Casino - Analog pptx (3)](https://github.com/user-attachments/assets/3549c792-a64e-47a1-b0f7-74d98332af39)
 
-- **Low Fees:** Leveraging the efficiency of opBNB and BNB chain to minimize transaction costs.
+- **Low Fees:** Leveraging the efficiency of opBNB and Aptos chain to minimize transaction costs.
 
 - **Flexible Withdrawal Policies:** Providing users with unrestricted access to their funds.
 
@@ -45,7 +45,7 @@ The traditional online gambling industry is plagued by several issues, including
 - **APT-Casino** includes a fully functional **European roulette game**.
 - Users can place various types of bets such as **straight, split, street, corner, six line, column, dozen, red, black, high, low, even, and odd.**
 - The **roulette wheel** randomly generates winning values.**
-- Winnings are automatically calculated and transferred to the users wallet on BNB chain.
+- Winnings are automatically calculated and transferred to the users wallet on-chain.
 
 **3. Defi - Lending Aspect:**
 - Users can **deposit opBNB/BNB tokens as collateral to borrow in game currency that is APTC** such that if the users holding is in BNB and if BNB goes up by 10% then the value of the collateral goes up by 10% and users can enjoy playing games/ gambling without facing any financial losses as the in game currency(APTC) is stable and has nothing to deal with collateral.
@@ -70,7 +70,7 @@ All though started as a idea but now we are thinking to carry forward as a busin
 
 - Applying for Grants: Seeking funding to further development and expand the platform.
 
-- Mainnet Launch: Deploying on the opBNB and BNB mainnet for real-world use.
+- Mainnet Launch: Deploying on mainnet for real-world use.
 
 - Promoting the Product: Marketing to attract a wider audience.
 
@@ -80,7 +80,7 @@ All though started as a idea but now we are thinking to carry forward as a busin
 
 - We aim to implement gasless transactions to enhance user convenience.
 
-- Enabling Developers to build more transparent games in our platform, We can pivot our current platform to game launchpad too but we stick to the decision of BNB judges, mentors and our future BNB advisors, angel investors, VC's and so on.
+- Enabling Developers to build more transparent games in our platform, We can pivot our current platform to game launchpad too but we stick to the decision of judges, mentors and our future advisors, angel investors, VC's and so on.
 
 - Bringing in new monetization schema's to compensate the casino games/ game creators.
 
