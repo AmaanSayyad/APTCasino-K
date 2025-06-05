@@ -65,14 +65,6 @@ The traditional online gambling industry is plagued by several issues, including
 
 ![captures_chrome-capture-2024-5-16 (7)](https://github.com/user-attachments/assets/c0b31be6-cda8-45aa-bc82-86b6121c917f)
 
-### Deployed Contract Address:
-
-- 0x45D86FD37842E52AaFc025C81F2f6C6D870866bC
-
-- 0x471aF5b71fDcc813D3464D6577E85dC27c5e526b
-
-- 0x7cC11FD207e1F28287F9966AD435B8A3654a438d
-
 ### What's next
 All though started as a idea but now we are thinking to carry forward as a business model and expand further.
 
